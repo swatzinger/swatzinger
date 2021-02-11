@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://www.learnenough.com/certificates/84302972"><img src="https://www.learnenough.com/certificates/84302972/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/84302972"><img src="https://www.learnenough.com/certificates/84302972/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
