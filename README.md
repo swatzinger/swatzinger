@@ -3,10 +3,10 @@
 🌱 I’m currently learning to build my own web app for music collaboration, reviews and feedback for distributed teams.
    A long process it seems.
 
-   But the tutorials over at <a href="https://www.learnenough.com"> Learn Enough™ to Be Dangerous are an immense helpful      resource and @mhartl is an amazing teacher and mentor.
+   But the tutorials over at <a href="https://www.learnenough.com"> Learn Enough™ to Be Dangerous</a>  are an immense helpful      resource and @mhartl is an amazing teacher and mentor.
 
 
-<!--
+<!--<
 **swatzinger/swatzinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
